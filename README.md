@@ -1,6 +1,6 @@
-# Image Manipulation with Python & Pillow (2021)
+# Image manipulation with Python & Pillow (2021)
 
-Welcome to the official GitHub repository for the [Image Manipulation with Python & Pillow (2021)](https://www.youtube.com/playlist?list=PLYeOw6sTSy6YViQG4Yiqu85t6w9ZFWJrP) series by [Carberra Tutorials](https://youtube.carberra.xyz)!
+Welcome to the official GitHub repository for the [Image manipulation with Python & Pillow (2021)](https://www.youtube.com/playlist?list=PLYeOw6sTSy6YViQG4Yiqu85t6w9ZFWJrP) series by [Carberra Tutorials](https://youtube.carberra.xyz)!
 
 This repository is designed purely as a supplementary aid to the series, and should **NOT** be downloaded without having watched it first.
 
