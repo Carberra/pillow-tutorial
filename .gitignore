@@ -1,3 +1,9 @@
+### Font ###
+*.fnt
+*.fon
+*.otf
+*.ttf
+
 ### Images ###
 # JPEG
 *.jpg
