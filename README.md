@@ -4,14 +4,16 @@ Welcome to the official GitHub repository for the [Image manipulation with Pytho
 
 This repository is designed purely as a supplementary aid to the series, and should **NOT** be downloaded without having watched it first.
 
+You can [browse the tags](https://github.com/Carberra/pillow-tutorial/releases) to view the code as it was after a specific episode.
+
 ## Prerequisites
 
 ### Version table
 
-|            | Minimum | Used in series |
-| ---------- | ------- | -------------- |
-| **Python** | 3.6.0   | 3.9.1          |
-| **Pillow** | 8.0.0   | 8.1.0          |
+|            | Required | Used in series |
+| ---------- | -------- | -------------- |
+| **Python** | >= 3.6.0 | 3.9.1          |
+| **Pillow** | >= 8.0.0 | 8.1.0          |
 
 ### Installing required libraries
 
